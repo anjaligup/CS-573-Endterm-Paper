@@ -1,4 +1,4 @@
-# CS-573-Endterm-Paper
+# CS-573-Endterm-Report
 
 CS 573 - Fundamentals of Cybersecurity w/ Professor Edward Amoroso 
 
